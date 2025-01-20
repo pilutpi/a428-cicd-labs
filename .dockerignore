@@ -25,4 +25,3 @@ dist
 # Ignore other unnecessary files
 README.md
 Dockerfile
-package.json
