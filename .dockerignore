@@ -1,0 +1,28 @@
+# Ignore node_modules directory
+node_modules
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+build
+dist
+
+# Ignore OS generated files
+.DS_Store
+
+# Ignore git files
+.git
+.gitignore
+.gitattributes
+
+# Ignore editor directories and files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Ignore other unnecessary files
+README.md
+Dockerfile
+package.json
